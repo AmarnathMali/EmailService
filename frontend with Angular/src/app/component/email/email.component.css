@@ -1,0 +1,22 @@
+.mast{
+    width: 100%;
+}
+.card{
+    width: 40%;
+    margin:auto;
+    background-color: rgb(254, 255, 255);
+    padding: 20px;
+}
+.container{
+    margin-top: 10px;
+}
+.card h1{
+    text-align: center;
+}
+.card button{
+    margin: 10px;
+}
+.fixit{
+    text-align: center ;
+}
+
